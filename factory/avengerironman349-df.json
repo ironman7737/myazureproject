@@ -1,0 +1,15 @@
+{
+	"name": "avengerironman349-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6089d6f0-d9cc-47e6-8551-fa98047ca281",
+		"tenantId": "db44305c-a37b-498c-87a8-423173b5b1b7"
+	}
+}
