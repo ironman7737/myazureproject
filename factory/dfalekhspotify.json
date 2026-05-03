@@ -1,0 +1,15 @@
+{
+	"name": "dfalekhspotify",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab15c7f8-6309-4c3a-96a3-522d8c433649",
+		"tenantId": "db44305c-a37b-498c-87a8-423173b5b1b7"
+	}
+}
